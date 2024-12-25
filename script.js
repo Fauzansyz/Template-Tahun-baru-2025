@@ -1,0 +1,1 @@
+const question = Swal.mixin({showCancelButton: true,title: 'Kamu mau gak jadi pacar aku 😍',imageUrl: '' + fotoakhir4.src,confirmButtonText: 'Mau',cancelButtonText: 'Enggak',reverseButtons: true,allowOutsideClick: false, showConfirmButton: true,imageWidth: 90, imageHeight: 90, });
